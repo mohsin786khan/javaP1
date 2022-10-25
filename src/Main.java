@@ -9,8 +9,9 @@ public class Main {
 
            if(callaarahihai==true){
                System.out.println("call aarahi hai");
-           }else{
+           }else {
                System.out.println("call nhi aarahi hai");
            }
+               d1.answer();
     }
 }

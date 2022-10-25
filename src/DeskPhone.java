@@ -24,7 +24,7 @@ public class DeskPhone implements Telephone{
             System.out.println("answer the phone");
             isRinging=false;
         }else{
-
+             System.out.println("No phone is coming");
         }
     }
 
